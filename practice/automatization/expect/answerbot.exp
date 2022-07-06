@@ -1,0 +1,11 @@
+#!/usr/bin/expect -f
+set timeout -1
+spawn ./hello.sh
+expect {
+    "1" {
+        send --- "Question 1\n"
+    }
+    "2"{
+        send --- "Question 2\n"
+    }
+}

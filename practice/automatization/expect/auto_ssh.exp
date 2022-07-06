@@ -1,0 +1,5 @@
+#!/usr/bin/expect -f
+set host [lindex $argv 0]
+spawn ssh $host
+expect "password:" { send -- [ lindex $argv 1 ] }
+interact
