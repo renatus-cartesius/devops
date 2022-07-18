@@ -10,11 +10,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "access_mng/notes1.md",
+            "file": "processes.md",
             "mode": "source"
           }
         },
-        "group": "2e7d16ae6efca187"
+        "group": "d100c10fbc56b7a8"
       },
       {
         "id": "992785cc999b85b9",
@@ -23,11 +23,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "access_mng/notes1.md",
+            "file": "processes.md",
             "mode": "preview"
           }
         },
-        "group": "2e7d16ae6efca187"
+        "group": "d100c10fbc56b7a8"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "access_mng/notes1.md",
+                "file": "processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "9d96be39daeb67e9",
   "lastOpenFiles": [
+    "processes.md",
     "access_mng/notes1.md",
     "boot/note1.md"
   ]
