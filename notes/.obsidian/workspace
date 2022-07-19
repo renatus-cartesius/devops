@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "processes.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "d100c10fbc56b7a8"
@@ -104,6 +104,9 @@
   "active": "9d96be39daeb67e9",
   "lastOpenFiles": [
     "processes.md",
+    "boot.md",
+    "access_mng.md",
+    "Pasted image 20220712135352.png",
     "access_mng/notes1.md",
     "boot/note1.md"
   ]
