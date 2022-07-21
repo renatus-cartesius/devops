@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "processes.md",
+            "file": "filesystem.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "processes.md",
-            "mode": "source"
+            "file": "filesystem.md",
+            "mode": "preview"
           }
         },
         "group": "d100c10fbc56b7a8"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processes.md",
+                "file": "filesystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +103,11 @@
   },
   "active": "9d96be39daeb67e9",
   "lastOpenFiles": [
+    "filesystem.md",
     "processes.md",
-    "boot.md",
-    "access_mng.md",
     "Pasted image 20220712135352.png",
+    "access_mng.md",
+    "boot.md",
     "access_mng/notes1.md",
     "boot/note1.md"
   ]
