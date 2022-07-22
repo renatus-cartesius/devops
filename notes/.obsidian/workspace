@@ -6,7 +6,7 @@
       {
         "id": "9d96be39daeb67e9",
         "type": "leaf",
-        "dimension": 52.88461538461539,
+        "dimension": 51.28205128205128,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "992785cc999b85b9",
         "type": "leaf",
-        "dimension": 47.11538461538461,
+        "dimension": 48.717948717948715,
         "state": {
           "type": "markdown",
           "state": {
@@ -106,8 +106,8 @@
     "filesystem.md",
     "processes.md",
     "Pasted image 20220712135352.png",
-    "access_mng.md",
     "boot.md",
+    "access_mng.md",
     "access_mng/notes1.md",
     "boot/note1.md"
   ]
