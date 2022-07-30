@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "filesystem.md",
+            "file": "users_managing.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "filesystem.md",
+            "file": "users_managing.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filesystem.md",
+                "file": "users_managing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,8 @@
   },
   "active": "95bc219246351b3f",
   "lastOpenFiles": [
+    "users_managing.md",
+    "packages_installation.md",
     "filesystem.md",
     "processes.md",
     "Pasted image 20220712135352.png",
