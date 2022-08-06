@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "users_managing.md",
+            "file": "journaling_linux.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "users_managing.md",
+            "file": "journaling_linux.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "users_managing.md",
+                "file": "journaling_linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,13 +103,14 @@
   },
   "active": "95bc219246351b3f",
   "lastOpenFiles": [
+    "journaling_linux.md",
+    "access_mng.md",
+    "boot.md",
+    "filesystem.md",
+    "packages_installation.md",
     "users_managing.md",
     "processes.md",
-    "packages_installation.md",
-    "filesystem.md",
     "Pasted image 20220712135352.png",
-    "boot.md",
-    "access_mng.md",
     "access_mng/notes1.md",
     "boot/note1.md"
   ]
