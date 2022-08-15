@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journaling_linux.md",
+            "file": "tcp-ip_nets_part_1.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journaling_linux.md",
+            "file": "tcp-ip_nets_part_1.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journaling_linux.md",
+                "file": "tcp-ip_nets_part_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "95bc219246351b3f",
   "lastOpenFiles": [
+    "tcp-ip_nets_part_1.md",
+    "Pasted image 20220815141552.png",
+    "tcp-ip_nets_part_2.md",
     "journaling_linux.md",
     "access_mng.md",
     "boot.md",
     "filesystem.md",
     "packages_installation.md",
     "users_managing.md",
-    "processes.md",
-    "Pasted image 20220712135352.png",
-    "access_mng/notes1.md",
-    "boot/note1.md"
+    "processes.md"
   ]
 }
