@@ -1,12 +1,11 @@
 {
   "main": {
-    "id": "a97c88efb2151d98",
+    "id": "db8488887c65adda",
     "type": "split",
     "children": [
       {
-        "id": "95bc219246351b3f",
+        "id": "4f1fad1cd5a52a7a",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,12 +13,11 @@
             "mode": "source"
           }
         },
-        "group": "e24ae2a43128c8e6"
+        "group": "bf795b354055ae30"
       },
       {
-        "id": "992785cc999b85b9",
+        "id": "efc82400204ae361",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,21 +25,21 @@
             "mode": "preview"
           }
         },
-        "group": "e24ae2a43128c8e6"
+        "group": "bf795b354055ae30"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "72428abdd8aa46f1",
+    "id": "1b7a3f6fd3c4d4e1",
     "type": "split",
     "children": [
       {
-        "id": "78f945b34f6fb0e9",
+        "id": "3d5a63996a00548e",
         "type": "tabs",
         "children": [
           {
-            "id": "82a1b35c75d81f9b",
+            "id": "2a0aba780de7177b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +47,7 @@
             }
           },
           {
-            "id": "4caa27ddbf0525ca",
+            "id": "d975226996e41944",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "ea05f30a663f5b3e",
+    "id": "8a14819e49237e96",
     "type": "split",
     "children": [
       {
-        "id": "ff0d7b97ea0c355d",
+        "id": "8803e8ca4b2b7fce",
         "type": "tabs",
         "children": [
           {
-            "id": "67e28802a35ceb2e",
+            "id": "dae0a7428c887569",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -101,17 +99,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95bc219246351b3f",
+  "active": "efc82400204ae361",
   "lastOpenFiles": [
     "tcp-ip_nets_part_1.md",
-    "Pasted image 20220815141552.png",
     "tcp-ip_nets_part_2.md",
+    "processes.md",
+    "Pasted image 20220712135352.png",
     "journaling_linux.md",
-    "access_mng.md",
-    "boot.md",
-    "filesystem.md",
-    "packages_installation.md",
-    "users_managing.md",
-    "processes.md"
+    "filesystem.md"
   ]
 }
