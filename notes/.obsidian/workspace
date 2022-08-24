@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tcp-ip_nets_part_2.md",
+            "file": "dns.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tcp-ip_nets_part_2.md",
+            "file": "dns.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249
   },
   "right": {
     "id": "8a14819e49237e96",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tcp-ip_nets_part_2.md",
+                "file": "dns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,13 @@
   },
   "active": "4f1fad1cd5a52a7a",
   "lastOpenFiles": [
+    "dns.md",
     "tcp-ip_nets_part_2.md",
-    "tcp-ip_nets_part_1.md",
     "processes.md",
-    "Pasted image 20220712135352.png",
+    "packages_installation.md",
     "journaling_linux.md",
-    "filesystem.md"
+    "filesystem.md",
+    "tcp-ip_nets_part_1.md",
+    "Pasted image 20220712135352.png"
   ]
 }
